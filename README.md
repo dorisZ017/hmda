@@ -1,5 +1,11 @@
-# hmda
-MAR 31, 2018
+# Lending Discrimination analysis with HMDA Dataset
+
+This project aims to determine whether minorities are discriminated against lending based on data from HMDA program, which is an open-source dataset with information of applicants of house mortage applications and results of the applications.
+
+I selected data from California and Texas in 2010 and 2013 in this project.
+
+The IPython Notebook in this repo contains the process of my analysis and codes, including data cleaning, feature engineering, modeling automated hypothesis tests, and final conclusion with a summary of questions I addressed during the process.
+
 
 HMDA Data source: 
 
@@ -13,13 +19,5 @@ Data dictionary:
 
 http://cfpb.github.io/api/hmda/fields.html
 
-pdf version of the report added.
 
-Working on refining my code and integrating report with ipython notebook...
-
-Mar 28, 2018
-
-This is a data challenge I worked on two months ago. The process was tough yet fun.
-
-A more refined and well-commented version coming soon...
 
