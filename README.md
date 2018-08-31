@@ -1,4 +1,4 @@
-# Lending Discrimination analysis with HMDA Dataset
+# Lending Discrimination Analysis with HMDA Dataset
 
 This project aims to determine whether minorities are discriminated against lending based on data from HMDA program, which is an open-source dataset with records of house mortage applications and their applicants.
 
